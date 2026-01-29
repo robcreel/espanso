@@ -49,7 +49,11 @@ matches:
   # R snippets
   - trigger: ";rass"
     replace: "-> "
+  
+  - trigger: ";eopra"
+    replace: "identity() ->"
 
+    
   # Dumb job URL domain password manager problem password
   - trigger: ";jobpw"
     replace: "ksjdfhSDKLFJH20583)#*&%Y"
