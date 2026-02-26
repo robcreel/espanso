@@ -57,3 +57,8 @@ matches:
   # Dumb job URL domain password manager problem password
   - trigger: ";jobpw"
     replace: "ksjdfhSDKLFJH20583)#*&%Y"
+
+  # DSH Intro
+  - trigger: ";dshintro"
+    replace: "Hi hi!  I'm Rob, in Chicago.  I'm hunting for a data analytics/engineering role.  I brew coffee, take pictures, and collect ThinkPads.
+\nhttps://www.linkedin.com/in/robcreel/"
